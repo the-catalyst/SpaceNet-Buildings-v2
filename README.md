@@ -6,8 +6,6 @@ As a part of this project, I designed a **model training pipeline** using the Fa
 
 ## Taking a look at the dataset
 
-![](https://github.com/the-catalyst/SpaceNet-Buildings-v2/blob/master/Graphs/Dataset.png)
-
 Though dataset comprises of 4 cities, only Vegas comprises of well clicked noiseless images. The problems with other cities are listed below. 
 
 
