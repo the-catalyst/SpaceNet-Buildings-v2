@@ -4,6 +4,8 @@ This repository displays the work I did for SpaceNet [Buildings Footprint Extrac
 
 As a part of this project, I designed a **model training pipeline** using the Fastai Library.
 
+![](https://github.com/the-catalyst/SpaceNet-Buildings-v2/blob/master/Vegas/Residential%203.png)
+
 ## Taking a look at the dataset
 
 Though dataset comprises of 4 cities, only Vegas comprises of well clicked noiseless images. The problems with other cities are listed below. 
